@@ -1,0 +1,3 @@
+/home/kaf/g/ogl/hellbus/build/CMakeFiles/hellbus.dir
+/home/kaf/g/ogl/hellbus/build/CMakeFiles/edit_cache.dir
+/home/kaf/g/ogl/hellbus/build/CMakeFiles/rebuild_cache.dir
